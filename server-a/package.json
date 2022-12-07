@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "node-fetch": "^2.6.0",
     "superagent": "^5.2.2",
     "zipkin": "^0.19.2",
